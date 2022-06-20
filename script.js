@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Full Stack Developer.", "Data Scientist."],
+        strings: ["Full Stack Java Developer.", "Data Scientist.","PEGA DEVELOPER","DataPower Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
